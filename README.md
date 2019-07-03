@@ -1,3 +1,7 @@
 # Browser Extension Starter
 
-> Kit to quickly start developing a browser extension.
+📦 Cross-browser extension starter template.
+
+## License
+
+[MIT](LICENSE)
